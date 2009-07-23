@@ -1,0 +1,9 @@
+-Xms128m
+-Xmx312m
+-XX:MaxPermSize=120m
+-XX:+UseConcMarkSweepGC
+-XX:+CMSIncrementalMode
+-XX:+CMSIncrementalPacing
+-XX:+DoEscapeAnalysis
+-Xbootclasspath/p:../lib/boot.jar
+-ea

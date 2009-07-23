@@ -1,0 +1,11 @@
+h1. Currently includes:
+
+# *.bashrc* - Contains my alias's. mv dotbashrc .bashrc ; mv .bashrc ~/
+# *.synergy.config* - Config file which lets me control a windows machine with the keyboard and mouse connected to my linux laptop (see "synergy":http://synergy2.sourceforge.net/). mv dotsynergy.conf .synergy.conf ; mv .synergy.conf ~/
+# *.vimrc* - Simple vim settings. Nothing special yet. mv dotvimrc .vimrc ; mv .vimrc ~/
+# *idea.sh* - Simple IntelliJ Idea startup script for linux
+# *idea.vmoptions* - Modified vmoptions for IntelliJ Idea
+# *start-hudson.sh* - "Example":http://jlorenzen.blogspot.com/2007/10/linux-generic-start-and-stop-scripts.html of a generic linux startup script
+# *stop-hudson.sh* - "Example":http://jlorenzen.blogspot.com/2007/10/linux-generic-start-and-stop-scripts.html of a generic linux stop script
+
+

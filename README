@@ -1,11 +1,16 @@
 h1. Currently includes:
 
-# *.bashrc* - Contains my alias's. mv dotbashrc .bashrc ; mv .bashrc ~/
-# *.synergy.config* - Config file which lets me control a windows machine with the keyboard and mouse connected to my linux laptop (see "synergy":http://synergy2.sourceforge.net/). mv dotsynergy.conf .synergy.conf ; mv .synergy.conf ~/
-# *.vimrc* - Simple vim settings. Nothing special yet. mv dotvimrc .vimrc ; mv .vimrc ~/
+# *.bashrc* - Contains my alias's.
+** mv dotbashrc .bashrc ; mv .bashrc ~/
+# *.synergy.config* - Config file which lets me control a windows machine with the keyboard and mouse connected to my linux laptop (see "synergy":http://synergy2.sourceforge.net/).
+** mv dotsynergy.conf .synergy.conf ; mv .synergy.conf ~/
+# *.vimrc* - Simple vim settings. Set the color scheme to no_quarter.
+** mv dotvimrc .vimrc ; mv .vimrc ~/
 # *idea.sh* - Simple IntelliJ Idea startup script for linux
 # *idea.vmoptions* - Modified vmoptions for IntelliJ Idea
+# *no_quarter.vim* - Color Scheme for VIM also available from "vim.org":http://www.vim.org/scripts/script.php?script_id=2016.
+** mv no_quarter.vim ~/.vim/colors
 # *start-hudson.sh* - "Example":http://jlorenzen.blogspot.com/2007/10/linux-generic-start-and-stop-scripts.html of a generic linux startup script
 # *stop-hudson.sh* - "Example":http://jlorenzen.blogspot.com/2007/10/linux-generic-start-and-stop-scripts.html of a generic linux stop script
 
-
+h1. "Wiki":http://wiki.github.com/jlorenzen/linux-config-files
